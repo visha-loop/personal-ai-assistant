@@ -1,0 +1,52 @@
+[
+  {
+    "user": "stats",
+    "bot": "\ud83d\udcca This is our first conversation! Welcome! \ud83c\udf89",
+    "timestamp": "2025-06-27 19:02:01"
+  },
+  {
+    "user": "calculate 10-9",
+    "bot": "\ud83e\uddee  10-9 = 1",
+    "timestamp": "2025-06-27 19:02:13"
+  },
+  {
+    "user": "who made you",
+    "bot": "\ud83c\udf93 I was built by a passionate 2nd year BTech Computer Science (AI & ML) student! This project showcases skills in Python, AI, web development, and data management. Pretty cool, right? \ud83d\ude0a",
+    "timestamp": "2025-06-27 19:02:27"
+  },
+  {
+    "user": "streamlit run app.py",
+    "bot": "\ud83e\udd14 I'm still learning! Here's what I can help with:\n\n\ud83c\udf24\ufe0f Weather info (try: \"weather in Delhi\")\n\ud83d\ude04 Jokes (try: \"tell me a joke\")  \n\ud83d\udcda Study tips (try: \"study tip\")\n\ud83d\udcaa Motivation (try: \"motivate me\")\n\ud83e\udd13 Fun facts (try: \"tell me something cool\")\n\ud83e\uddee Math (try: \"calculate 15 + 25\")\n\nWhat would you like to try? \ud83d\ude80",
+    "timestamp": "2025-06-27 19:02:47"
+  },
+  {
+    "user": "",
+    "bot": "\ud83e\udd14 I'm still learning! Here's what I can help with:\n\n\ud83c\udf24\ufe0f Weather info (try: \"weather in Delhi\")\n\ud83d\ude04 Jokes (try: \"tell me a joke\")  \n\ud83d\udcda Study tips (try: \"study tip\")\n\ud83d\udcaa Motivation (try: \"motivate me\")\n\ud83e\udd13 Fun facts (try: \"tell me something cool\")\n\ud83e\uddee Math (try: \"calculate 15 + 25\")\n\nWhat would you like to try? \ud83d\ude80",
+    "timestamp": "2025-06-27 19:02:52"
+  },
+  {
+    "user": "who made this project",
+    "bot": "\ud83c\udf06 Good evening! I'm your personal AI assistant! \ud83e\udd16\n\nI can help you with:\n\u2022 \ud83c\udf24\ufe0f Weather information\n\u2022 \ud83d\ude04 Programming jokes\n\u2022 \ud83d\udcda Study tips\n\u2022 \ud83d\udcaa Motivation\n\u2022 \ud83e\udd13 Coding facts\n\u2022 \ud83e\uddee Math calculations\n\u2022 \ud83d\udcca Chat statistics\n\nWhat would you like to know?",
+    "timestamp": "2025-06-27 19:03:28"
+  },
+  {
+    "user": "What's the weather in Hyderabad?",
+    "bot": "Weather data for Hyderabad? is not available yet, but I'm sure it's lovely! \ud83c\udf0d",
+    "timestamp": "2025-06-27 19:04:03"
+  },
+  {
+    "user": "What's the weather in Hyderabad?",
+    "bot": "Weather data for Hyderabad? is not available yet, but I'm sure it's lovely! \ud83c\udf0d",
+    "timestamp": "2025-06-27 19:04:08"
+  },
+  {
+    "user": "Tell me a programming joke",
+    "bot": "\ud83d\ude04 Here's a joke for you:\nWhy don't scientists trust atoms? Because they make up everything! \u269b\ufe0f",
+    "timestamp": "2025-06-27 19:04:23"
+  },
+  {
+    "user": "Tell me a programming joke",
+    "bot": "\ud83d\ude04 Here's a joke for you:\nWhy did the developer go broke? Because he used up all his cache! \ud83d\udcb8",
+    "timestamp": "2025-06-27 19:04:28"
+  }
+]
